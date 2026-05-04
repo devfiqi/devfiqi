@@ -30,36 +30,8 @@ CS student at the University of Minnesota and incoming **Software Engineering In
 **mini-flink**(https://github.com/devfiqi/mini-flink) | Real-time event processing pipeline
 
 ---
-
-## Stack
-
-```
-Languages      Java · Python · Go · C++ · C · TypeScript · SQL · Bash
-Infra          Kafka · Kafka Streams · Kubernetes · Docker · Helm · Terraform
-Data           OpenSearch · PostgreSQL · SQLite · Amazon S3 · Redis
-Cloud          AWS (Lambda, S3, EC2) · GCP · Azure
-Frameworks     Spring Boot · FastAPI · gRPC · Next.js · GraphQL
-```
-
----
- 
 ## Currently Studying
  
-- **DDIA** (Designing Data-Intensive Applications) — working through replication, partitioning, transactions, and stream processing with hands-on implementations alongside each chapter
-- **Streaming Systems** — Tyler Akidau et al.; focused on the what/where/when/how model, watermarks, and triggers for unbounded data processing
-- **Database Internals** — Alex Petrov; storage engine internals, B-tree and LSM-tree structures, and distributed database algorithms
-- **The Book of Kubernetes** — end-to-end K8s from core primitives to operators, networking, and production cluster patterns
-- **System Design Primer** — working through canonical distributed systems patterns: load balancing, caching, sharding, consistency tradeoffs
-- **Raft consensus** — building toward a full implementation to close the gap in my distributed systems fundamentals
-- **Apache Flink internals** — mini-flink is my learning project for window operators, state management, and K8s deployment patterns
----
-
-## Experience
-
-- **LinkedIn** — SWE Intern, Streams Processing & Distributed Infrastructure *(May – Aug 2026)*
-- **Stanford University** — Teaching Assistant, Code in Place CS106A *(Apr – Jun 2025)*
-- **CodePath** — Teaching Assistant, Technical Interview Prep *(Aug – Dec 2025)*
-- **ColorStack UMN** — Founder & VP *(Aug 2025 – Present)*
-- **Management Leadership for Tomorrow** — Career Prep Fellow *(Aug 2024 – Present)*
-
----
+- **DDIA** (Designing Data-Intensive Applications) — replication, partitioning, transactions, stream processing
+- **Streaming Systems** — unbounded data, watermarks, triggers
+- **Database Internals** — storage engines, B-trees, LSM-trees, distributed algorithms
