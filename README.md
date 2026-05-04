@@ -9,7 +9,7 @@
                                                   |___/
 ```
 
-**Backend Infrastructure · Distributed Systems · University of Minnesota**
+**University of Minnesota**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-solarportfolio.vercel.app-black?style=flat-square&logo=vercel)](https://solarportfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-salmanfiqi-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/salmanfiqi)
@@ -21,9 +21,7 @@
 
 ## About
 
-CS student at the University of Minnesota (graduating 2027) and incoming **Software Engineering Intern at LinkedIn** on the Streams Processing & Distributed Infrastructure team. I build at the lowest layers of the stack — storage engines, messaging pipelines, distributed compute — and I care deeply about how systems hold up under real load.
-
-Long-term I'm targeting infrastructure roles at companies like Confluent, Databricks, and Snowflake.
+CS student at the University of Minnesota and incoming **Software Engineering Intern at LinkedIn** on the Streams Processing & Distributed Infrastructure team. 
 
 ---
 
