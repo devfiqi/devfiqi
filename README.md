@@ -24,12 +24,6 @@
 CS student at the University of Minnesota and incoming **Software Engineering Intern at LinkedIn** on the Streams Processing & Distributed Infrastructure team. 
 
 ---
-
-## What I'm Building
-
-**mini-flink**(https://github.com/devfiqi/mini-flink) | Real-time event processing pipeline
-
----
 ## Currently Studying
  
 - **DDIA** (Designing Data-Intensive Applications) — replication, partitioning, transactions, stream processing
