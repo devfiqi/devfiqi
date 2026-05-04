@@ -49,13 +49,16 @@ Frameworks     Spring Boot · FastAPI · gRPC · Next.js · GraphQL
 ```
 
 ---
-
+ 
 ## Currently Studying
-
+ 
 - **DDIA** (Designing Data-Intensive Applications) — working through replication, partitioning, transactions, and stream processing with hands-on implementations alongside each chapter
+- **Streaming Systems** — Tyler Akidau et al.; focused on the what/where/when/how model, watermarks, and triggers for unbounded data processing
+- **Database Internals** — Alex Petrov; storage engine internals, B-tree and LSM-tree structures, and distributed database algorithms
+- **The Book of Kubernetes** — end-to-end K8s from core primitives to operators, networking, and production cluster patterns
+- **System Design Primer** — working through canonical distributed systems patterns: load balancing, caching, sharding, consistency tradeoffs
 - **Raft consensus** — building toward a full implementation to close the gap in my distributed systems fundamentals
 - **Apache Flink internals** — mini-flink is my learning project for window operators, state management, and K8s deployment patterns
-
 ---
 
 ## Experience
@@ -67,9 +70,3 @@ Frameworks     Spring Boot · FastAPI · gRPC · Next.js · GraphQL
 - **Management Leadership for Tomorrow** — Career Prep Fellow *(Aug 2024 – Present)*
 
 ---
-
-<div align="center">
-
-*Building at the bottom of the stack.*
-
-</div>
