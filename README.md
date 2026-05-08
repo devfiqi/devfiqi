@@ -30,4 +30,5 @@ CS student at the University of Minnesota and incoming Software Engineering Inte
 - **Streaming Systems** — unbounded data, watermarks, triggers
 - **Database Internals** — storage engines, B-trees, LSM-trees, distributed algorithms
 
-[![Resume Preview](./resume-preview.png)](./SalmanFiqi_Resume_2027.pdf)
+[SalmanFiqi_Resume_2027.pdf](https://github.com/user-attachments/files/27520306/SalmanFiqi_Resume_2027.pdf)
+
