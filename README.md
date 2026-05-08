@@ -29,3 +29,5 @@ CS student at the University of Minnesota and incoming Software Engineering Inte
 - **DDIA** (Designing Data-Intensive Applications) — replication, partitioning, transactions, stream processing
 - **Streaming Systems** — unbounded data, watermarks, triggers
 - **Database Internals** — storage engines, B-trees, LSM-trees, distributed algorithms
+
+[SalmanFiqi_Resume_2027.pdf](https://github.com/user-attachments/files/27520161/SalmanFiqi_Resume_2027.pdf)
