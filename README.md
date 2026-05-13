@@ -21,7 +21,7 @@
 
 ## About
 
-CS student at the University of Minnesota and incoming Software Engineering Intern at LinkedIn on the Streams Processing & Distributed Infrastructure team. 
+CS student at the University of Minnesota.
 
 ---
 ## Currently Studying
